@@ -8,7 +8,7 @@ console.log('--- + ---')
   ];
   function addition(_a, _b) {
     if (typeof a === 'number' && typeof b === 'number') {
-      return a + b;
+      return /* replication */;
     } else {
       return 'phht'
     }
@@ -22,7 +22,7 @@ console.log('--- - ---')
   ];
   function subtraction(_a, _b) {
     if (typeof a === 'number' && typeof b === 'number') {
-      return a - b;
+      /* replication */;
     } else {
       return 'phht'
     }
@@ -36,7 +36,7 @@ console.log('--- * ---')
   ];
   function multiplication(_a, _b) {
     if (typeof a === 'number' && typeof b === 'number') {
-      return a * b;
+      /* replication */;
     } else {
       return 'phht'
     }
@@ -50,7 +50,7 @@ console.log('--- / ---')
   ];
   function division(_a, _b) {
     if (typeof a === 'number' && typeof b === 'number') {
-      return a / b;
+      /* replication */;
     } else {
       return 'phht'
     }
@@ -64,7 +64,7 @@ console.log('--- % ---')
   ];
   function modulo(_a, _b) {
     if (typeof a === 'number' && typeof b === 'number') {
-      return a % b;
+      /* replication */;
     } else {
       return 'phht'
     }

@@ -8,7 +8,7 @@ console.log('--- test cases ---')
   ];
   function string_concatination(_a, _b) {
     if (typeof a === 'string' && typeof b === 'string') {
-      return a + b;
+      /* replication */;
     } else {
       return 'phht'
     }

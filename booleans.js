@@ -7,7 +7,7 @@ console.log('--- || ---')
   ];
   function or(_a, _b) {
     if (typeof a === 'boolean' && typeof b === 'boolean') {
-      return a || b;
+      /* replication */;
     } else {
       return 'phht'
     }
@@ -21,7 +21,7 @@ console.log('--- && ---')
   ];
   function and(_a, _b) {
     if (typeof a === 'boolean' && typeof b === 'boolean') {
-      return a && b;
+      /* replication */;
     } else {
       return 'phht'
     }
@@ -35,7 +35,7 @@ console.log('--- ! ---')
   ];
   function not(_a) {
     if (typeof a === 'boolean') {
-      return !a;
+      /* replication */;
     } else {
       return 'phht'
     }
