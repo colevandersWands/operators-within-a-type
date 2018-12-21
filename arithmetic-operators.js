@@ -8,7 +8,7 @@ console.log('--- + ---')
   ];
   function addition(_a, _b) {
     if (typeof a === 'number' && typeof b === 'number') {
-      return /* replication */;
+      /* replication */;
     } else {
       return 'phht'
     }
